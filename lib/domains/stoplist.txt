@@ -1056,3 +1056,4 @@ uam.net.ni
 utp.br
 collegiumwitelona.edu.pl
 sue.edu.eg
+mail.usantander.edu.pa
