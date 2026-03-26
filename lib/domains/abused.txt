@@ -1868,3 +1868,5 @@ ugb.edu.sv
 student.pu.edu.np
 student.puo.edu.my
 puo.edu.my
+student.duet.ac.bd
+duet.ac.bd
