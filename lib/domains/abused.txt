@@ -1878,3 +1878,7 @@ uniandes.edu.ec
 tu.ac.th
 cgcjhanjeri.in
 uvq.edu.ar
+ktu.edu.gh
+trident.ac.in
+shingu.ac.kr
+ul.ac.za
