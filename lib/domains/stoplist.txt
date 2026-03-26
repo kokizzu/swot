@@ -1060,3 +1060,5 @@ tapachula.tecnm.mx
 lasallecolon.edu.pa
 ust.edu.ye
 pum.edu.pl
+student.pis.edu.my
+nttf.co.in
