@@ -1059,3 +1059,4 @@ mail.usantander.edu.pa
 tapachula.tecnm.mx
 lasallecolon.edu.pa
 ust.edu.ye
+pum.edu.pl

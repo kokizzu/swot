@@ -1865,3 +1865,6 @@ mcet.in
 bufs.ac.kr
 estgv.ipv.pt
 ugb.edu.sv
+student.pu.edu.np
+student.puo.edu.my
+puo.edu.my
