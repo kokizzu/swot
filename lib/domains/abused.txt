@@ -1882,3 +1882,6 @@ ktu.edu.gh
 trident.ac.in
 shingu.ac.kr
 ul.ac.za
+student.unpar.ac.id
+unpar.ac.id
+unam.mx
