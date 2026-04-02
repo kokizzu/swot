@@ -1087,3 +1087,5 @@ afpa-montpellier.fr
 mail.fsa.br
 ftu.ac.th
 umistrzapaderewskiego.onmicrosoft.com
+lo9wrocpl.onmicrosoft.com
+atmajaya.ac.id
