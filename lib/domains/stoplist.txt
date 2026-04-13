@@ -449,7 +449,6 @@ altoona.k12.wi.us
 wauwatosa.k12.wi.us
 as.edu.sa
 lanesville.k12.in.us
-student.umc.edu.dz
 edu.menofia.edu.eg
 mail.dusit.ac.th
 stu.scott.kyschools.us
