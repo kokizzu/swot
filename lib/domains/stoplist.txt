@@ -1128,3 +1128,5 @@ vfx.ecam.es
 mhiet.edu.eg
 cep.g12.br
 estudiante.uatx.mx
+cloud.wyk.edu.hk
+office.ctshkpcc.edu.hk
