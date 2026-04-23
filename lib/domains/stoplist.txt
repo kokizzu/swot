@@ -1138,3 +1138,5 @@ online.gaf.ni.ac.rs
 online.medfak.ni.ac.rs
 samagu.ed.cr
 liston.school.nz
+sue.edu.eg
+ufram.edu.mx
