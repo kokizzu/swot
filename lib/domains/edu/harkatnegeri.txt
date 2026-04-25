@@ -5,6 +5,7 @@ Universitas Harkat Negeri
 harkatnegeri.ac.id
 
 #### Email Users
+student.harkatnegeri.ac.id
 
 *Please place an x between the square brackets if yes*
 - [ x] Students
